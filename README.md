@@ -1,2 +1,2 @@
 # DecisionTree
-Classification Problem Solving using Decision Tree Algorithm
+Classification Problems Solving using Decision Tree Algorithm
